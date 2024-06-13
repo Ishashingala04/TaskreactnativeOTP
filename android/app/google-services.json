@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "705149485948",
+    "project_id": "extra-976d4",
+    "storage_bucket": "extra-976d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705149485948:android:d787c9b5980a09b2355af9",
+        "android_client_info": {
+          "package_name": "com.taskreactnativeotp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuUSyDVPAW5SAWwNKWO5_DRz7TFIboqeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
